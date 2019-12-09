@@ -1,0 +1,3 @@
+public class A{
+public void print("我是中国人")
+}
